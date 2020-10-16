@@ -1,0 +1,37 @@
+.navbar-custom {
+    background-color: #202020;
+    font-family: 'bahnschrift';
+}
+body {
+    background-color: #202020;
+}
+.text-white {
+    color: white;
+    font-family: 'bahnschrift';
+    font-weight: bold;
+}
+p {
+    color: white;
+    font-family: 'bahnschrift';
+}
+.jumbotron {
+    background-color: #950a24;
+}
+hr {
+    background-color: white;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+.fa-twitter {
+    background: #950a24;
+    color: white;
+}  
+.fa-github {
+    background: #950a24;
+    color: white;
+}  
